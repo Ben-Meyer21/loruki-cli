@@ -4,12 +4,12 @@ Get perfect shadows every time for the non-designer.
 
 # Installation
 
-'npm i shadowwizard --save'
+'npm i shadowwizardy --save'
 
 Then...
 
 ```
-import { shadowwizard } from 'shadowwizard';
+import { shadowwizardy } from 'shadowwizardy';
 
 shadowwizard({
     shadow_type: 'soft',
