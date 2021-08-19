@@ -1,5 +1,5 @@
-function shadowwizard(options) {
-    let images = document.querySelectorAll('.shaddowwizard');
+function shadowwwwizardyyyy(options) {
+    let images = document.querySelectorAll('.shadowwwwizardyyyy');
 
     if (options.shawdow_type === 'hard')
         options.shadow_type = '0px'
@@ -15,4 +15,4 @@ function shadowwizard(options) {
     })
 }
 
-module.exports.loruki-cli = loruki-cli
+module.exports.shadowwwwizardyyyy = shadowwwwizardyyyy
