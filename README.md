@@ -11,7 +11,7 @@ Then...
 ```
 import { shadowwizardy } from 'shadowwizardy';
 
-shadowwizard({
+shadowwizardy({
     shadow_type: 'soft',
     padding: false
 });
@@ -19,7 +19,7 @@ shadowwizard({
 
 ## Options
 
-Shadowwizard supports 2 options, both of which are optional:
+Shadowwizardy supports 2 options, both of which are optional:
 
 * *shadow_type* - _hard | soft_ (Defaults to soft)
 * *padding* - _boolean_ (Defaults to false)
